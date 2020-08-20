@@ -1,4 +1,5 @@
 /*
+  HARD
   This problem was asked by Stripe.
 
   Given an array of integers, find the first missing positive integer in linear time and constant space.
